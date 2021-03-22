@@ -10,8 +10,7 @@ API para a aplicação **Meu Pet 🐾**.
 ### Especificação técnica
 
 Projeto desenvolvido com:
-- [NestJS](https://github.com/nestjs/nest).
-- 
+- [NestJS](https://github.com/nestjs/nest)
 
 ## Instalação das dependências
 
@@ -96,3 +95,7 @@ Baseada no projeto do github de [Clean Architecture](https://github.com/damienbe
 |-- tsconfig.build.json
 |-- tsconfig.json
 ```
+
+<div>Icons made by 
+  <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</div>
