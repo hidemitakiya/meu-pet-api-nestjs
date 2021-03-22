@@ -1,6 +1,7 @@
+# Meu Pet
+
 <p align="left">
   <img src="meu-pet-logo.svg" width="100" alt="Meu Pet Logo" /></a>
-  <font size="7">Meu Pet</font>
 </p>
 
 ## Descrição do projeto
