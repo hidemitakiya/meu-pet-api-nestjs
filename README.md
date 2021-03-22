@@ -1,24 +1,26 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="300" alt="Nest Logo" /></a>
+  <span style="font-size: 50px;">Meu Pet</span>
+  <img src="meu-pet-logo.svg" width="100" alt="Meu Pet Logo" /></a>
 </p>
 
 ## Descrição do projeto
----
+
 API para a aplicação **Meu Pet 🐾**.
 
 ### Especificação técnica
+
 Projeto desenvolvido com:
 - [NestJS](https://github.com/nestjs/nest).
 - 
 
 ## Instalação das dependências
----
+
 ```bash
 $ yarn install
 ```
 
 ## Execução da aplicação
----
+
 ```bash
 # desenvolvimento
 $ yarn run start
@@ -31,7 +33,7 @@ $ yarn run start:prod
 ```
 
 ## Testes
----
+
 ```bash
 # unit tests
 $ yarn run test
@@ -44,7 +46,7 @@ $ yarn run test:cov
 ```
 
 ## Estrutura de pastas do projeto
----
+
 Baseada no projeto do github de [Clean Architecture](https://github.com/damienbeaufils/nestjs-clean-architecture-demo), que utiliza o conceito de arquitetura do [Uncle Bob - Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 ```bash
